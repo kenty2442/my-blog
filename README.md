@@ -1,3 +1,9 @@
+#たにぐちまことさんのちゃんと学ぶ、WordPressテーマ開発講座
+これはwordpressの学習の記録です。
+Local by Flywheel　を使用しながら学習を進めています。
+テンプレートタグや、個別投稿ページなどのテンプレートファイルについて学習しました。
+
+
 # [Start Bootstrap - Clean Blog](https://startbootstrap.com/theme/clean-blog/)
 
 [Clean Blog](https://startbootstrap.com/theme/clean-blog/) is a stylish, responsive blog theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
